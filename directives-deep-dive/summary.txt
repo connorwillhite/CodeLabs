@@ -1,0 +1,2 @@
+NgFor and ngif Recape
+This is a summary ect ect
